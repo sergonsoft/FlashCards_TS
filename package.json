@@ -1,0 +1,13 @@
+{
+  "name": "flashcards_ts",
+  "version": "1.0.0",
+  "description": "Implementation of the Leitner flash card system algorithms in TypeScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
